@@ -1,0 +1,21 @@
+{
+  "book": "practical-python-data-processing-en",
+  "state": "draft cover for human review; not approved for sale",
+  "source": "/home/j945935/books/booksherdr-book-automation2/books/practical-python-data-processing-en/05_封面及文案/cover-en.svg",
+  "proof_svg": "/home/j945935/books/booksherdr-book-automation2/books/practical-python-data-processing-en/06_待出版人工審/release-candidate/google-play-books-round-1/cover-google-play-review.svg",
+  "png": {
+    "file": "cover-google-play-review.png",
+    "dimensions": [
+      1600,
+      2400
+    ],
+    "bytes": 175850,
+    "sha256": "b8f43b252729e6f0eb23e91e7a019307004e67785a2e0cb0841cb6eaa2ea43af"
+  },
+  "jpg": {
+    "file": "cover-google-play-review.jpg",
+    "bytes": 318865,
+    "sha256": "144a9c68c9554f33e88dc5d69de074fc02430e31bf3d219df7ac4f95b0b1617a"
+  },
+  "previous_1024_cover_preserved_at": "/home/j945935/books/booksherdr-book-automation2/books/practical-python-data-processing-en/06_待出版人工審/release-candidate/google-play-books-round-1/superseded/2026-10-25-1024x1536-cover/cover-google-play-review.png"
+}
